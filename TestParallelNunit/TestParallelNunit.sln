@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDriverMasterclassFramework", "WebDriverMasterclassFramework\WebDriverMasterclassFramework.csproj", "{B71C78EC-217F-43BD-9CA8-A5FEAF83F3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71C78EC-217F-43BD-9CA8-A5FEAF83F3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71C78EC-217F-43BD-9CA8-A5FEAF83F3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71C78EC-217F-43BD-9CA8-A5FEAF83F3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71C78EC-217F-43BD-9CA8-A5FEAF83F3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D79D1DC0-0B9E-46EF-B8F0-4532D69B56B9}
+	EndGlobalSection
+EndGlobal

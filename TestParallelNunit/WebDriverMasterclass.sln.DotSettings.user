@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cf3188e_002D4a77_002D4875_002Da106_002D620f08be820b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ContactUsFeatureTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.AutomationPracticeTests.ContactUsFeatureTests.ContactUsFeatureTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.AutomationPracticeTests.SearchFunctionalityTests.AutomationPracticeSearch&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=81673f24_002D5c5a_002D4ef8_002D87c6_002D4790502573e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutomationPracticeSearch" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.SearchFunctionalityTests.AutomationPracticeSearch&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.ContactUsFeatureTests.ContactUsFeatureTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.AutomationPracticeTests.SliderTests.SliderTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0c130c1_002D3e8c_002D4e72_002D9823_002Dd1537df45897/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SliderTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.AutomationPracticeTests.SliderTests.SliderTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eebe1918_002D26fa_002D45b6_002Db115_002D8dc272e4c2ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::3F5C6CEC-F424-449D-BD26-3981D576A1D6::.NETFramework,Version=v4.7.2::SampleFramework1.SampleApplicationOneTests.TestMethod1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
